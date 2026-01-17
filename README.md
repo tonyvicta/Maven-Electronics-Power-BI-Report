@@ -1,5 +1,16 @@
 # Global Electronics Retailer
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)
+![Power BI Service](https://img.shields.io/badge/Power%20BI%20Service-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)
+![DAX](https://img.shields.io/badge/DAX-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=ffffff)
+![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=powerbi&logoColor=ffffff)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-2F2F2F?style=for-the-badge&logo=diagramsdotnet&logoColor=ffffff)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=ffffff)
+
+
 This repo contains my Global Electronics Retailer Power BI report, built end to end from data prep to modelling, DAX, and reporting.
 
 ## Live report
