@@ -1,4 +1,4 @@
-# Maven Electronics Power BI Report
+# Global Electronics Retailer
 
 This repo contains my Maven Electronics Power BI report, built end to end from data prep to modelling, DAX, and reporting.
 
