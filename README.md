@@ -99,29 +99,14 @@ Includes:
 Screenshot:
 screenshots/store_detail.png
 
-## How to use locally
-1. Download the PBIX from pbix/Maven Electronics.pbix
-2. Open in Power BI Desktop
-3. Refresh data if needed
-4. Navigate pages and test drillthrough from Site Performance to Store Detail
-
-## Publish with GitHub Pages
-This repo includes an embedded report page in docs/index.html.
-
-1. Go to your GitHub repo Settings
-2. Open Pages
-3. Under Build and deployment, set Source to Deploy from a branch
-4. Select branch main and folder docs
-5. Save
-6. After it publishes, open your GitHub Pages link and the embedded report will load
-
-The embed page is here:
-docs/index.html
-
-## Project notes
-Step by step build notes:
-notes/build_steps.md
-
 ## Author
-* © 2026 Tony Tawakali. All rights reserved
+
+- © 2026 Tony Tawakali. All rights reserved  
+- [LinkedIn](https://www.linkedin.com/in/tonytawakali/)  
+- [Medium](https://medium.com/@datasphered)  
+- [Website](https://www.datasphered.com/)  
+
+## Contact me
+
+If you have any questions, suggestions, or just want to connect, feel free to email me at [tony@datasphered.com](mailto:tony@datasphered.com).
 
